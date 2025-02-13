@@ -9,7 +9,7 @@
 
 A highly customizable bottom navigation bar for Flutter. It is shipped with 17 prebuilt styles you can choose from (see below), but can also be used with your very own style without sacrificing any features. [View on `pub.dev`](https://pub.dev/packages/persistent_bottom_nav_bar_v2)
 
-NOTE: This package is a continuation of [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar).
+NOTE: This package is a continuation of [persistent_bottom_nav_bar_v2]([https://pub.dev/packages/persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar_v2)).
 
 > [!IMPORTANT]
 > If you are migrating from Version 4.x.x to Version 5 read this [MIGRATION GUIDE](https://github.com/jb3rndt/PersistentBottomNavBarV2/blob/master/MigrationGuide.md).
