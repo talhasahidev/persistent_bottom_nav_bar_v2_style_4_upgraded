@@ -24,6 +24,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jb3rndt/PersistentBottomNavBarV2/master/gifs/style4.gif" alt="Preview" width="300"/>
 </p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eeb88342-3310-41f2-9c07-000ab3b73f76" alt="Preview" width="300"/>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/151b20ed-d3d3-4a73-89d7-a2481839d54b" alt="Preview" width="300"/>
+</p>
 
 ## ✨ What's New in Style 4 Upgraded
 
