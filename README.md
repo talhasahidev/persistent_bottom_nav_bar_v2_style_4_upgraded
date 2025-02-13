@@ -175,4 +175,8 @@ Style4BottomNavBar(
 
 ## 📄 License
 
+<<<<<<< HEAD
 This project is licensed under the GUI License.
+=======
+This project is licensed under the GUI License.
+>>>>>>> 93833694eebde36c3896e424aa8d6ba86ca0c981
