@@ -1,15 +1,31 @@
-# Persistent Bottom Navigation Bar Version 2
+<h1 align="center">
+  Persistent Bottom Navigation Bar Version 2 With Style 4 Upgrded (With a Center Widget Option)
+</h1>
+<p align="center">
+  <a href="https://pub.dev/packages/timezone_dropdown_plus">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build">
+  </a>
+  <a href="https://pub.dev/packages/timezone_dropdown_plus"><img src="https://img.shields.io/badge/version-1.0.0-blue"></a>
+   <a href="https://www.upwork.com/freelancers/~01c846f88ea4efa042"><img src="https://img.shields.io/badge/Hire_Me_On_Upwork-Talha_Bin_Naeem-ge600?logo=upwork&logoColor=white"></a>
+ <a href="https://www.upwork.com/freelancers/~01c846f88ea4efa042"><img src="https://img.shields.io/badge/Get_your_dream_app_now-Flutter_Developer-%2341a5ee?logo=flutter&logoColor=white"></a>
+</p>
 
-[![Build](https://github.com/jb3rndt/PersistentBottomNavBarV2/actions/workflows/tests.yaml/badge.svg?branch=master)](https://github.com/jb3rndt/PersistentBottomNavBarV2/actions)
-[![Coverage](https://codecov.io/gh/jb3rndt/PersistentBottomNavBarV2/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jb3rndt/PersistentBottomNavBarV2/)
-[![Pub package version](https://img.shields.io/pub/v/persistent_bottom_nav_bar_v2)](https://pub.dev/packages/persistent_bottom_nav_bar_v2)
-[![License](https://img.shields.io/github/license/jb3rndt/PersistentBottomNavBarV2)](https://github.com/jb3rndt/PersistentBottomNavBarV2/blob/master/LICENSE)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/jb3rndt/PersistentBottomNavBarV2)](https://gitHub.com/jb3rndt/PersistentBottomNavBarV2/issues/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/jb3rndt/PersistentBottomNavBarV2?style=flat)](https://gitHub.com/jb3rndt/PersistentBottomNavBarV2/stargazers/)
+<p align="center"> 
+   <a href="https://github.com/talhasahidev/"><img src="https://img.shields.io/badge/GitHub-talhasahidev-%23333?logo=github&logoColor=white"></a>
+  
+  <a href="https://buymeacoffee.com/talhasahi">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
 
-A highly customizable bottom navigation bar for Flutter. It is shipped with 17 prebuilt styles you can choose from (see below), but can also be used with your very own style without sacrificing any features. [View on `pub.dev`](https://pub.dev/packages/persistent_bottom_nav_bar_v2)
+<p align="center">Please give me a star ⭐:<br>
+With :heart: by <a href="https://github.com/talhasahidev/timezone_dropdown_plus"><b>talhasahidev</b></a><br>
+</p><br>
 
-NOTE: This package is a continuation of [persistent_bottom_nav_bar_v2]([https://pub.dev/packages/persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar_v2)).
+A highly customizable bottom navigation bar for Flutter. It is shipped with 17 prebuilt styles you can choose from (see below), but can also be used with your very own style without sacrificing any features. This package is upgraded version of [persistent_bottom_nav_bar_v2](https://pub.dev/packages/persistent_bottom_nav_bar_v2). [View on `pub.dev`](https://pub.dev/packages/persistent_bottom_nav_bar_v2). You can pass center widget to the navigation bar and also you can pass animatedBorderRadius, activeForegroundColor, inactiveForegroundColor, textStyle directly to the navigation bar intead of passing it to the ItemConfig.
+
+
+NOTE: This package is a continuation of [persistent_bottom_nav_bar_v2](https://pub.dev/packages/persistent_bottom_nav_bar_v2).
 
 > [!IMPORTANT]
 > If you are migrating from Version 4.x.x to Version 5 read this [MIGRATION GUIDE](https://github.com/jb3rndt/PersistentBottomNavBarV2/blob/master/MigrationGuide.md).
